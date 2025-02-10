@@ -1,5 +1,5 @@
 {
-  "name": "node_setup",
+  "name": "@dev_octopus/node_setup",
   "version": "1.0.0",
   "description": "This package provides a ready-to-use environment for Node.js projects, including essential configurations, package management, and initial setup to streamline development.",
   "main": "index.js",
