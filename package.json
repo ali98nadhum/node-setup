@@ -1,0 +1,27 @@
+{
+  "name": "node_setup",
+  "version": "1.0.0",
+  "description": "This package provides a ready-to-use environment for Node.js projects, including essential configurations, package management, and initial setup to streamline development.",
+  "main": "index.js",
+  "bin": {
+    "setup-node": "./index.js"
+  },
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ali98nadhum/node-setup.git"
+  },
+  "keywords": [
+    "node",
+    "node_env",
+    "node_env_setup"
+  ],
+  "author": "dev_octopus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ali98nadhum/node-setup/issues"
+  },
+  "homepage": "https://github.com/ali98nadhum/node-setup#readme"
+}
